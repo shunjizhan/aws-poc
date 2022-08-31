@@ -1,6 +1,7 @@
 {
   "name": "hello-cdk",
   "version": "0.1.0",
+  "license": "MIT",
   "bin": {
     "hello-cdk": "bin/hello-cdk.js"
   },
