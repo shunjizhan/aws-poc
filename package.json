@@ -1,9 +1,9 @@
 {
-  "name": "hello-cdk",
+  "name": "cdk-workshop",
   "version": "0.1.0",
   "license": "MIT",
   "bin": {
-    "hello-cdk": "bin/hello-cdk.js"
+    "cdk-workshop": "bin/cdk-workshop.js"
   },
   "scripts": {
     "build": "tsc",
